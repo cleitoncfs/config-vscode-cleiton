@@ -25,5 +25,8 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.renderWhitespace": "all",
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "python.createEnvironment.trigger": "off",
 }
